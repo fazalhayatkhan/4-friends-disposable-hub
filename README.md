@@ -1,1 +1,1 @@
-# 4-friends-disposable-hub
+# friends-disposable-hub
